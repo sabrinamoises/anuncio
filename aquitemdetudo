@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Anuncio</title>
+  </head>
+  <body>
+    <h1>AQUI TEM DE TUDO!</h1>
+        <h1>Esta a procura de um carro diferenciado?</h1>
+        <h2>Você esta no lugar certo </h2>
+        <h3>Confira esse modelo de mini carro,com três rodas, esse microcarro britânico foi fabricado apenas entre 1970 e 1974. Tem motor de 700 cc e estava disponível para venda somente na cor laranja.<br>  
+        <img src="minicarros.jpg" >
+    
+
+    <h1>Já que esta há procura de algo diferenciado!</h1>
+    <h2>Aqui você encontra bicicleta com modelo exclusivo</h2>
+    <h3> "Bicicleta feita para viajar com estilo"<br>
+    <img src="bike.jpg" >  
+
+    <h1>Esta na duvida do que comprar por conta do clima?</h1>
+    <h2>Confira a previsão do tempo</h2>
+    <img src="clima.jpg" >  
+
+    <h1>Só esta fazendo uma pesquisa do que comprar futuramente, pois não tem dinheiro e nem emprego?</h1>
+    <h2>Nós temos a solução para você</h2>
+    <h3> Confira vagas essas vagas exclusivas que você só encontra aqui<br>
+    <img src="vagas.jpg" >  
+
+</body>
+
+</html>
